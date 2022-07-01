@@ -1,0 +1,29 @@
+VGGSound - Tasks
+-----------------
+0 train wheels squealing
+1 train horning
+2 lawn mowing
+3 playing squash
+4 basketball bounce
+5 rowboat, canoe, kayak rowing
+6 chinchilla barking
+7 black capped chickadee calling
+8 fly, housefly buzzing
+9 beat boxing
+10 people screaming
+11 children shouting
+12 ripping paper
+13 pumping water
+14 using sewing machines
+15 playing marimba, xylophone
+16 playing erhu
+17 orchestra
+18 door slamming
+19 opening or closing drawers
+20 electric shaver, electric razor shaving
+21 volcano explosion
+22 fire crackling
+23 raining
+24 sharpen knife
+25 forging swords
+26 eletric blender running

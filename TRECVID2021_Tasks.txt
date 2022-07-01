@@ -1,0 +1,22 @@
+TRECVID 2021 - Tasks
+----------------------
+1 Find shots of a hang glider floating in the sky on a sunny day
+2 Find shots of a woman wearing sleeveless top
+3 Find shots of a person with a tattoo on their arm
+4 Find shots of city street where ground is covered by snow
+5 Find shots of an adult person wearing a backpack and walking on a sidewalk
+6 Find shots of a man wearing a blue jacket
+7 Find shots of a person looking at themselves in a mirror
+8 Find shots of a person wearing an apron indoors
+9 Find shots of a woman holding a book
+10 Find shots of a person painting on a canvas
+11 Find shots of a man behind a pub bar or club bar
+12 Find shots of a person wearing a cap backwards
+13 Find shots of a man pointing with his finger
+14 Find shots of a parachutist descending towards a field on the ground in the daytime
+15 Find shots of two or more ducks swimming in a pond
+16 Find shots of a white dog
+17 Find shots of two boxers in a ring
+18 Find shots of a man sitting on a barber chair in a shop
+19 Find shots of a ladder with less than 6 steps
+20 Find shots of a bow tie
